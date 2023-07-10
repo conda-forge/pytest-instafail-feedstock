@@ -152,4 +152,5 @@ Feedstock Maintainers
 =====================
 
 * [@asford](https://github.com/asford/)
+* [@rxm7706](https://github.com/rxm7706/)
 
